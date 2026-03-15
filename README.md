@@ -51,8 +51,8 @@ SoulMate/
 ## Purpose of the Project
 This project was created as a **web development practice project** to demonstrate how a simple matrimony website interface can be built using front-end technologies.
 
-## 👤 Author
+##  Author
  T.Vithujan  ASP/2023/018  Index NO: 6227   
 
-## 📄 License
+##  License
 This project is created for **educational purposes only**.
