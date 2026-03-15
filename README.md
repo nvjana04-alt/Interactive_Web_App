@@ -42,7 +42,7 @@ SoulMate/
 - Bootstrap 
 - Bootstrap Icons
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 1. Download or clone the project folder.
 2. Open the project folder.
 3. Double-click **index.html**.
