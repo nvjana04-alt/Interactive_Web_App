@@ -1,17 +1,17 @@
 # Interactive_Web_App
 A basic Matrimony Management System developed using HTML ,JavaScript and CSS as a beginner web development project.
-# ❤️ SoulMate Matrimony Website
+#  SoulMate Matrimony Website
 
 SoulMate is a simple matrimony website interface built using **HTML, CSS, and Bootstrap**.  
 The website allows users to explore profiles, create accounts, and connect with potential matches.
 
-## 🌐 Project Description
+##  Project Description
 The SoulMate Matrimony website is designed to help people find their perfect life partner.  
 It provides a clean and responsive interface where users can browse profiles, register, and login.
 
 This project demonstrates basic **front-end web development concepts** using Bootstrap components like Navbar, Carousel, Cards, and Forms.
 
-## ✨ Features
+##  Features
 - Responsive Navigation Bar
 - Home page with image carousel
 - Login page
@@ -21,7 +21,7 @@ This project demonstrates basic **front-end web development concepts** using Boo
 - Contact page
 - Modern Bootstrap design
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 SoulMate/
@@ -36,7 +36,7 @@ SoulMate/
 ├── style.css
 ```
 
-## 🛠 Technologies Used
+## Technologies Used
 - HTML
 - CSS
 - Bootstrap 
@@ -48,7 +48,7 @@ SoulMate/
 3. Double-click **index.html**.
 4. The website will open in your web browser.
 
-## 🎯 Purpose of the Project
+## Purpose of the Project
 This project was created as a **web development practice project** to demonstrate how a simple matrimony website interface can be built using front-end technologies.
 
 ## 👤 Author
