@@ -1,19 +1,19 @@
-# 💕 SoulMate Matrimony
+#  SoulMate Matrimony
 
 A beautiful and modern matrimonial website built with PHP, MySQL, and Bootstrap. Find your perfect match with verified profiles, smart matching, and privacy protection.
 
 ![SoulMate Logo](images/logo.png)
 
-## ✨ Features
+##  Features
 
-- 🔐 **User Authentication** - Secure login and registration system
-- 👤 **User Profiles** - Create detailed profiles with photos, interests, and preferences
-- 🔍 **Browse Profiles** - Discover verified members and find your perfect match
-- ✅ **Verified Profiles** - All profiles are manually verified for safety
-- 💖 **Smart Matching** - Advanced algorithm to find compatible matches
-- 🔒 **Privacy Protected** - Your data is encrypted and secure
-- 📱 **Responsive Design** - Works perfectly on desktop, tablet, and mobile
-- 🎨 **Beautiful UI** - Modern gradient design with smooth animations
+-  **User Authentication** - Secure login and registration system
+-  **User Profiles** - Create detailed profiles with photos, interests, and preferences
+-  **Browse Profiles** - Discover verified members and find your perfect match
+-  **Verified Profiles** - All profiles are manually verified for safety
+-  **Smart Matching** - Advanced algorithm to find compatible matches
+-  **Privacy Protected** - Your data is encrypted and secure
+-  **Responsive Design** - Works perfectly on desktop, tablet, and mobile
+-  **Beautiful UI** - Modern gradient design with smooth animations
 
 ## 🛠️ Tech Stack
 
@@ -23,7 +23,7 @@ A beautiful and modern matrimonial website built with PHP, MySQL, and Bootstrap.
 - **Framework:** Bootstrap 5.3
 - **Icons:** Bootstrap Icons
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 soulmate-matrimony/
@@ -52,7 +52,7 @@ soulmate-matrimony/
 └── database.sql           # Database schema
 ```
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -106,7 +106,7 @@ http://localhost/matrimony/intex.php
 
 ```
 
-## 📝 Database Schema
+##  Database Schema
 
 ### Users Table
 - `id` - Primary key
@@ -127,7 +127,7 @@ http://localhost/matrimony/intex.php
 - `message` - Message content
 - `created_at` - Timestamp
 
-## 🎨 Color Scheme
+##  Color Scheme
 
 | Color | Hex Code | Usage |
 |-------|----------|-------|
@@ -137,7 +137,7 @@ http://localhost/matrimony/intex.php
 | Dark Background | `#1a1a2e` | Welcome section, footer |
 | Light Background | `#f8f9fa` | Features section |
 
-## 🔐 Security Features
+##  Security Features
 
 - **Password Hashing** - Uses `password_hash()` with bcrypt
 - **CSRF Protection** - Token-based CSRF prevention
@@ -145,13 +145,13 @@ http://localhost/matrimony/intex.php
 - **XSS Protection** - Output escaping with `htmlspecialchars()`
 - **Input Sanitization** - All user inputs are sanitized
 
-## 📱 Responsive Breakpoints
+##  Responsive Breakpoints
 
 - **Desktop:** 992px and above
 - **Tablet:** 768px - 991px
 - **Mobile:** Below 768px
 
-## 🎯 Key Pages
+##  Key Pages
 
 ### Homepage (index.php)
 - Hero carousel with wedding imagery
@@ -188,7 +188,7 @@ http://localhost/matrimony/intex.php
 - Contact form with validation
 - Contact information cards
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Database Connection Error
 - Check `includes/db.php` credentials
@@ -204,7 +204,7 @@ http://localhost/matrimony/intex.php
 - Ensure `session_start()` is working
 - Check PHP session save path permissions
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -212,17 +212,17 @@ http://localhost/matrimony/intex.php
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
 
-## 🙏 Credits
+##  Credits
 
 - Bootstrap 5 - Frontend framework
 - Bootstrap Icons - Icon library
 - Images generated with AI
 
-## 📧 Contact
+##  Contact
 
 For support or inquiries:
 - Email: support@soulmate.com
