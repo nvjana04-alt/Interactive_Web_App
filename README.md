@@ -102,7 +102,7 @@ chmod -R 755 uploads/
 Open your browser and navigate to:
 
 ```
-http://localhost/matrimony/intex.php
+http://localhost/Interactive_Web_App/intex.php
 
 ```
 
